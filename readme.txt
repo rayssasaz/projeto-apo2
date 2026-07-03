@@ -33,14 +33,15 @@ PROJETO: SISTEMA DE HELP DESK (APO2)
 	
 
 5. DEPENDÊNCIAS DO SISTEMA:
-   - Java Development Kit (JDK) 17+
-   - Apache Tomcat 9.0+
-   - MySQL Server 8.0+
+   - Plataforma J2EE (Jakarta EE)
+   - Apache Tomcat v9.0
+   - MySQL Server 8.0
    - Bibliotecas Adicionais (presentes na pasta /WEB-INF/lib):
      - JDBC Driver (mysql-connector-j)
      - Biblioteca JSON (ex: org.json)
      - [activation, gson-2.8.6, gson-2.8.6-javadoc, mail, mysql-connector-java-5.1.34-bin
 	mysql-connector-java-8.0.17]
+   - Interface com Bootstrap v5.0
 
 6. INSTRUÇÕES PARA EXECUÇÃO:
    a) Banco de Dados:
